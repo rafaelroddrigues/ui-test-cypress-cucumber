@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://git.cwi.com.br/prytula-daniel/quadrante-qualidade/cypress-cucumber-test-automation"
+    "url": "https://github.com/rafaelroddrigues/ui-test-cypress-cucumber.git"
   },
   "author": "Rafael Gonçalves Rodrigues",
   "license": "ISC",
