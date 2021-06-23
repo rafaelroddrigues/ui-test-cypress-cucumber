@@ -1,0 +1,19 @@
+{
+  "name": "cypress-cucumber-test-automation",
+  "version": "1.0.0",
+  "description": "Automação de testes usando Cypress e Cucumber",
+  "main": "index.js",
+  "cypress-cucumber-preprocessor": {
+        "step_definitions": "cypress/steps"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.cwi.com.br/prytula-daniel/quadrante-qualidade/cypress-cucumber-test-automation"
+  },
+  "author": "Rafael Gonçalves Rodrigues",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^7.5.0",
+    "cypress-cucumber-preprocessor": "^4.1.2"
+  }
+}
